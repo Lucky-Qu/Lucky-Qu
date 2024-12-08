@@ -6,13 +6,14 @@
 [LuckyQu的基地](http://luckyqu.cn)
 ## 有关未来的一些规划
 ### 编程语言
-以Golang为主，有余力的时候探索Rust语言以及Swift，学习基础前端知识，从而有能力个人构建简单应用，在实习之前逐渐锻炼编程能力
+以Golang为主，有余力的时候探索Rust语言
 
-数据结构方面研究部分算法，学习一些算法的思路从而应用到编码上
+## 我的Go学习路线导图
+![思维导图](https://github.com/Lucky-Qu/Golang-Learn-RoadMap/blob/main/Golang%E5%AD%A6%E4%B9%A0.jpg?raw=true)
 
 ### 兴趣方向
 
-了解Vision Pro方面的相关前景及生态，关注HarmonyOS的发展动向及需求，探索新平台新工具
+了解Vision Pro方面的相关前景及生态
 
 ## 以下是我的一些其他信息
 
