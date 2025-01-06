@@ -1,5 +1,5 @@
 # <center>Hello There</center>
-目前是一名学生，主要技术栈是Golang
+目前是一名学生，主攻技术栈是Golang
 
 
 下面是自己的博客，会放一些自己学习的相关东西上去
