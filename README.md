@@ -1,13 +1,13 @@
 # <center>Hello There</center>
-目前是一名学生，主攻技术栈是Golang
+目前是一名学生，主攻技术栈是Golang，梦想是成为全栈工程师
 
 
-下面是自己的博客，会放一些自己学习的相关东西上去
+下面是自己的博客，有时会放一些自己学习的相关东西上去
 
 [LuckyQu的基地](http://luckyqu.cn)
 ## 有关未来的一些规划
 ### 编程语言
-以Golang为主，有余力的时候探索Rust语言
+学习一下TypeScript，了解一下Rust
 
 ## 我的Go学习路线导图
 
@@ -17,7 +17,7 @@
 
 ### 兴趣方向
 
-Vision Pro相关
+全栈开发，visionpro生态应用
 
 ## 以下是我的一些其他信息
 
