@@ -7,7 +7,7 @@
 [LuckyQu的基地](http://luckyqu.cn)
 ## 有关未来的一些规划
 ### 编程语言
-学习一下TypeScript,Rust
+学习一下Rust
 
 ## 我的Go学习路线导图
 
